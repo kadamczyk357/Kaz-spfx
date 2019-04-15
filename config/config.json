@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/test/TestWebPart.js",
+      "manifest": "./src/webparts/test/TestWebPart.manifest.json",
+      "outputPath": "./dist/test-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/reactResponsiveCarousel/ReactResponsiveCarouselWebPart.js",
+      "manifest": "./src/webparts/reactResponsiveCarousel/ReactResponsiveCarouselWebPart.manifest.json",
+      "outputPath": "./dist/react-responsive-carousel-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/reactCoverflow/ReactCoverflowWebPart.js",
+      "manifest": "./src/webparts/reactCoverflow/ReactCoverflowWebPart.manifest.json",
+      "outputPath": "./dist/react-coverflow-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/reactNativeMarquee/ReactNativeMarqueeWebPart.js",
+      "manifest": "./src/webparts/reactNativeMarquee/ReactNativeMarqueeWebPart.manifest.json",
+      "outputPath": "./dist/react-native-marquee-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/reactImageGalery/ReactImageGaleryWebPart.js",
+      "manifest": "./src/webparts/reactImageGalery/ReactImageGaleryWebPart.manifest.json",
+      "outputPath": "./dist/react-image-galery-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/reactAnimatedSlider/ReactAnimatedSliderWebPart.js",
+      "manifest": "./src/webparts/reactAnimatedSlider/ReactAnimatedSliderWebPart.manifest.json",
+      "outputPath": "./dist/react-animated-slider-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "TestWebPartStrings": "webparts/test/loc/{locale}.js",
+    "PropertyControlStrings": "../node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js",
+    "ReactResponsiveCarouselWebPartStrings": "webparts/reactResponsiveCarousel/loc/{locale}.js",
+    "ReactCoverflowWebPartStrings": "webparts/reactCoverflow/loc/{locale}.js",
+    "ReactNativeMarqueeWebPartStrings": "webparts/reactNativeMarquee/loc/{locale}.js",
+    "ReactImageGaleryWebPartStrings": "webparts/reactImageGalery/loc/{locale}.js",
+    "ReactAnimatedSliderWebPartStrings": "webparts/reactAnimatedSlider/loc/{locale}.js"
+  }
+}

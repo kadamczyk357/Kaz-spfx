@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": false,
+    "environment": "onprem",
+    "version": "1.7.1",
+    "libraryName": "kaz",
+    "libraryId": "5b9bf861-d9ea-49b5-95dc-ae7a8d1756e3",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

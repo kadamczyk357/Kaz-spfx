@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "kaz-client-side-solution",
+    "id": "5b9bf861-d9ea-49b5-95dc-ae7a8d1756e3",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/kaz.sppkg"
+  }
+}
