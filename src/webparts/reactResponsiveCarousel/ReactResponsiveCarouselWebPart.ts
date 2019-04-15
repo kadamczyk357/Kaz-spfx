@@ -97,7 +97,7 @@ export default class ReactResponsiveCarouselWebPart extends BaseClientSideWebPar
       return strings.ErrorEmptyString;
     }
 
-    if (value.length > 40) {
+    if (value.length > 50) {
       return strings.ErrorToLongString;
     }
 
